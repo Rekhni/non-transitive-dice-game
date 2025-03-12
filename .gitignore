@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 node_module/
+=======
+node_modules/
+>>>>>>> 2dce900 (Added .gitignore and removed node_modules)
